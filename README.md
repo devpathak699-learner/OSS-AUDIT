@@ -52,8 +52,8 @@ git --version
 ### Step 3 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/oss-audit-24BAI10489.git
-cd oss-audit-24BAI10489
+git clone https://github.com/your-username/OSS-AUDIT.git
+cd OSS-AUDIT
 ```
 
 ### Step 4 — Grant Execute Permissions
